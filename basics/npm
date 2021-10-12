@@ -1,0 +1,12 @@
+npm is node package manager 
+if you want to install anything 
+we use,
+ npm install ....
+ for example:
+ npm install request
+
+
+and to use that package 
+we use,
+const anyName = require('package name');
+const request = require('request');
